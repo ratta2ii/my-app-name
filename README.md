@@ -1,6 +1,6 @@
 ## Description
 
-I am trying to host this on Azure and coming up with the following error. This repo contains ONLY the necessary files (I think) to solve this problem.
+I am trying to host this on Azure and coming up with the following error after I go to the new URL. This repo contains ONLY the necessary files (I think) to solve this problem.
 
 Error: ENOENT: no such file or directory, stat '/home/site/wwwroot/server/dist/index.html'
 
